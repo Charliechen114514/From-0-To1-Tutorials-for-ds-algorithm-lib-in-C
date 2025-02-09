@@ -10,7 +10,7 @@
 
 ![GUI](https://img.shields.io/badge/Introduction-About_This_Tutorial-blue)
 
-​	Hello!:wave: This is a toturials for createing a portable C Data structure And Algorithm Library by steps! I will steply inroduced how to learn this topic.  
+​	Hello! :wave: This is a toturials for createing a portable C Data structure And Algorithm Library by steps! I will steply inroduced how to learn this topic.  
 
 ![GUI](https://img.shields.io/badge/Setup-Things_You_Need_To_Do_Before_Start-green)
 
