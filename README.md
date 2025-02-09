@@ -10,7 +10,7 @@
 
 ![GUI](https://img.shields.io/badge/介绍-关于这个教程是什么-blue)
 
-​	​你好​我​的​朋友​！:wave: 这是一个手搓C数据结构算法库的一个简单教程！
+​	​你好​我​的​朋友​！ :wave: 这是一个手搓C数据结构算法库的一个简单教程！
 
 ![GUI](https://img.shields.io/badge/构建-在开始之前，你应该做什么-green)
 
